@@ -1,4 +1,5 @@
-﻿using System.IO;
+//Code referred from : https://answers.unity.com/questions/1098979/custom-editor-show-asset-folders-in-objectfield.html
+using System.IO;
 using UnityEditor;
 using UnityEngine;
 
