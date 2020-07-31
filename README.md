@@ -1,6 +1,6 @@
 # ProjectSync
 
-### A simple package to handle Import/Export of packages
+### A simple package to handle Import/Export of packages in Unity
 
 This package is developed mainly to streamline the process of handling commonly imported packages which gets updated frequently. 
 It also includes a neat script to store project specific data through a **EditorPropertySaver** script.
